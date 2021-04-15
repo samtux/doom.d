@@ -1,0 +1,4 @@
+* Mi configuración personal de doom-emacs 
+
+- Jupyter 
+- Conda
