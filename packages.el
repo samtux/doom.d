@@ -10,9 +10,27 @@
 ;(package! some-package)
 
 (package! conda)
-(package! anaconda-mode)
-(package! company-anaconda)
+;;(package! anaconda-mode)
+;;(package! company-anaconda)
 (package! jupyter)
+(package! org-download)
+(package! org-cliplink)
+(package! org-special-block-extras)
+(package! org-ref)
+(package! ox-ioslide)
+;; Para realizar presentaciones con Reveal.js
+(package! org-re-reveal)
+(package! org-reveal)
+(package! ob-mermaid)
+(package! htmlize)
+(package! doom-themes)
+(package! poet-theme)
+(package! leuven-theme)
+(package! material-theme)
+(package! zerodark-theme)
+(package! pdf-tools)
+(package! ob-blockdiag)
+(package! org2blog)
 
 ;; To install a package directly from a remote git repo, you must specify a
 ;; `:recipe'. You'll find documentation on what `:recipe' accepts here:
